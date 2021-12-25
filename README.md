@@ -1,2 +1,2 @@
-# Belajar-Pascal-New
+# Learn-Pascal
 Belajar Pascal Semester 1
